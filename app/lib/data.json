@@ -1,0 +1,12 @@
+{
+  "contract_address": "0xfeee3700698f8d75bcc18e009022c7b44d2af44f",
+  "chain": "zora-mainnet",
+  "ipfs_gateway": "https://ipfs.decentralized-content.com/ipfs/",
+  "block_explorer": "https://explorer.zora.energy/",
+  "socialMedia": {
+    "x": "https://twitter.com/Alchemist_HQ",
+    "discord": "https://discord.gg/f6T2qhUf73"
+  },
+  "genesis_address":"0x0000000000000000000000000000000000000000",
+  "site_url": "https://alchemist-dashboard.vercel.app"
+}

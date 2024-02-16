@@ -1,0 +1,1 @@
+export const ALCHEMY_LOCALSTORE = "al_nft_data";
